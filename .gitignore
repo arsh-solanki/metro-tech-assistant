@@ -487,3 +487,5 @@ dist/
 build/
 .env
 .env.local
+
+appsettings.Development.json
