@@ -1,0 +1,6 @@
+@MetroTechAssistant_HostAddress = http://localhost:5084
+
+GET {{MetroTechAssistant_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

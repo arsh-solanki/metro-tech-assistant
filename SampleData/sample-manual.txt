@@ -1,0 +1,62 @@
+﻿METRO STATION EQUIPMENT TROUBLESHOOTING MANUAL (SAMPLE)
+Section 1: Automatic Fare Collection (AFC) Ticket Gates
+
+SAFETY: Before opening any gate housing, switch off the gate at the local isolator and display a "Under Maintenance" sign. Wear insulated gloves.
+
+Fault E-101: Gate flap does not open after a valid card tap.
+Possible causes: flap motor jammed, obstruction in the sensor path, loose motor connector.
+Steps:
+1. Switch the gate to maintenance mode from the control panel.
+2. Check the flap area for coins, tickets or dirt blocking the infrared sensors and clean them with a dry cloth.
+3. Open the service cover and check that the motor connector is firmly seated.
+4. Power the gate off and on after 30 seconds and test with a test card.
+5. If the flap still does not move, replace the flap motor assembly and log the fault in the maintenance register.Fault E-102: Card reader shows "Invalid Card" for all cards.
+Possible causes: dirty reader antenna, communication loss with the station computer, outdated fare table.
+Steps:
+1. Clean the reader surface with a lint-free cloth.
+2. Check the network cable between the gate and the station computer (green LED should be on).
+3. From the maintenance menu, select "Update Fare Table" and wait for the confirmation message.
+4. Test with two different cards. If the problem remains, replace the reader module.
+
+Fault E-107: Gate alarm sounds continuously.
+Possible causes: tailgating sensor stuck, flap forced open, faulty emergency-release switch.
+Steps:
+1. Mute the alarm from the maintenance menu.
+2. Inspect the emergency-release switch and reset it.
+3. Clean and test the passenger-detection sensors.
+4. Restart the gate. If the alarm continues, replace the sensor board.Section 2: Escalators
+
+SAFETY: Press the emergency stop at both ends and lock out the main power before opening the step area or machine room. Never work on moving steps.
+
+Fault ESC-21: Escalator stops suddenly during operation.
+Possible causes: handrail speed deviation, step chain tension fault, comb plate switch triggered, overload relay tripped.
+Steps:
+1. Check the fault code on the control panel in the upper machine room.
+2. Inspect the comb plate at both ends for a trapped object and reset the comb plate switch.
+3. Check the handrail for slipping or damage; the speed difference with the steps must be small.
+4. Reset the overload relay only after finding the cause.
+5. Restart in inspection mode and run one full cycle before returning to service.
+
+Fault ESC-35: Unusual grinding noise from the step area.
+Steps:
+1. Stop the escalator and apply lock-out.
+2. Check step rollers and chain lubrication.
+3. Replace any worn rollers and re-lubricate the chain with the specified grease.Section 3: Lifts
+
+SAFETY: Never enter the lift shaft. Use the lift key only to move the car to the nearest floor. If passengers are trapped, stay in contact with them and inform the control room immediately.
+
+Fault LIFT-12: Lift door does not close.
+Possible causes: door sill blocked, door sensor dirty or misaligned, door motor drive error.
+Steps:
+1. Check the door sill and track for stones, trash or other obstructions.
+2. Clean the safety-edge sensor and light curtain.
+3. Check that the door-zone sensor is aligned with the landing marker.
+4. Reset the door controller from the car operating panel and test three open/close cycles.
+5. If the drive shows an error, replace the door motor drive and inform the lift contractor.
+
+Fault VM-04: Ticket vending machine does not dispense tokens.
+Steps:
+1. Check the token hopper level and refill if empty.
+2. Clear any jam in the dispenser path.
+3. Restart the machine and run the self-test from the service menu.
+4. If the test fails, replace the dispenser unit.
